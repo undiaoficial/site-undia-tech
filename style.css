@@ -455,3 +455,18 @@ section{
 
 }
 
+footer sup{
+
+    font-size:0.50em;
+
+    vertical-align:super;
+
+}
+
+footer p{
+
+    color:#9CA3AF;
+
+    margin-top:20px;
+
+}
